@@ -5,7 +5,7 @@ html, body {
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
-    color: #f5f6f7;
+    color: #6f42c1;
 }
 
 p {
@@ -13,7 +13,7 @@ p {
 }
 
 a {
-    color: #2e72a1;
+    color: #000;
 }
 
 #logo, .project-img {
@@ -66,6 +66,7 @@ a {
 .container-fluid {
     padding-top: 50px;
     padding-bottom: 50px;
+    background-color: #6f42c1;
 }
 
 .navbar {
