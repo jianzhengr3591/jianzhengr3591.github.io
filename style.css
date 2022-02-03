@@ -32,6 +32,8 @@ a {
 
 .margin {
     margin-bottom: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .bg-1 {
